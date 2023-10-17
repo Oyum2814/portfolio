@@ -20,7 +20,7 @@ export default function About() {
                 I am a Full Stack Web Developer, having Experience in Web Development, Web Scraping, Web Auomation, Cyber Security and Game Development.
             </div>
             <div className="flex w-[90%] justify-around lg:items-center lg:flex-col lg:mt-8">
-                <div className="lg:my-4 px-4 py-3 w-[35vh] h-[40vh] bg-neutral-400 bg-opacity-20 rounded-xl flex flex-col items-around justify-center">
+                <div className="lg:my-4 px-4 py-3 w-[35vh] h-[40vh] sm:w-auto sm:h-auto bg-neutral-400 bg-opacity-20 rounded-xl flex flex-col items-around justify-center">
                     <h1 className="text-white font-semibold text-lg text-center lg:text-xl mt-4">Web Development</h1>
                     <div className="grid-cols-3  grid mt-4">
                         <span  title="Selenium" className="m-3">
@@ -62,7 +62,7 @@ export default function About() {
                     </div>
                 </div>
 
-                <div className="lg:my-4 px-4 py-3 w-[35vh] h-[40vh] bg-neutral-400 bg-opacity-20 rounded-xl flex flex-col items-evely justify-center ">
+                <div className="lg:my-4 px-4 py-3 w-[35vh] h-[40vh] sm:w-auto sm:h-auto bg-neutral-400 bg-opacity-20 rounded-xl flex flex-col items-evely justify-center ">
                     <h1 className="text-white font-semibold text-lg text-center lg:text-xl">Web Automation & Scraping</h1>
                     <div className="grid-cols-3  grid mt-4">
                         <span  title="Selenium" className="m-3">
@@ -95,7 +95,7 @@ export default function About() {
                     </div>
                 </div>
 
-                <div className="lg:my-4 px-4 py-3 w-[35vh] h-[40vh] bg-neutral-400 bg-opacity-20 rounded-xl flex flex-col items-around justify-center">
+                <div className="lg:my-4 px-4 py-3 w-[35vh] h-[40vh] sm:w-auto sm:h-auto bg-neutral-400 bg-opacity-20 rounded-xl flex flex-col items-around justify-center">
                     <h1 className="text-white font-semibold text-lg text-center lg:text-xl">Competitive Programming</h1>
                     <div className="grid-cols-3  grid mt-4">
                         <span  title="C++" className="m-3">
